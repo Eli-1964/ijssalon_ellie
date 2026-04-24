@@ -24,3 +24,5 @@ for el in reclame_tekst4:
     else:
         print(el.lower())
 # Stap 11: Nieuwe lokale versie met tekst "bestand tijdelijk.py gecodeerd" tweede commando via Terminal
+# Stap 12: Updaten van de remote repo op GitHub
+# Stap 13: De URL van mijn remote repo op GitHub via Plaza mailen
